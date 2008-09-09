@@ -38,11 +38,73 @@ module Sage
       end    
     end
     
-    def tax_codes
+    def tax_rates
+			@xml.elements.each('Company/TaxRates/TaxRate') do |tr|
+				ref = tr.elements['Reference'].text.to_i
+				desc = tr.elements['Description'].text
+				rate = tr.elements['Rate'].text.to_f
+				
+				yield ref, desc, rate
+			end
     end
     
     def groups
+			@xml.elements.each('Company/ProductGroups/ProductGroup') do |pg|
+				ref = pg.elements['Reference'].text.to_i
+				name = pg.elements['Name'].text
+				
+				yield ref, name
+			end
     end
+
+		def customers
+			@xml.elements.each('Company/Customers/Customer') do |c|
+				company = c.elements['CompanyName'].text
+				account_ref = c.elements['AccountReference'].text
+				vat_number = c.elements['VatNumber'].text
+				terms_agreed = c.elements['TermsAgreed'] ? (c.elements['TermsAgreed'].text == 'true') : nil
+				invoice_addr = Hash.new
+				delivery_addr = Hash.new
+				
+				c.elements.each('CustomerInvoiceAddress') do |a|
+					invoice_addr[:title] = a.elements['Title'].text
+					invoice_addr[:forename] = a.elements['Forename'].text
+					invoice_addr[:surname] = a.elements['Surname'].text
+					invoice_addr[:company] = a.elements['Company'].text
+					invoice_addr[:address1] = a.elements['Address1'].text
+					invoice_addr[:address2] = a.elements['Address2'].text
+					invoice_addr[:address3] = a.elements['Address3'].text
+					invoice_addr[:town] = a.elements['Town'].text
+					invoice_addr[:postcode] = a.elements['Postcode'].text
+					invoice_addr[:county] = a.elements['County'].text
+					invoice_addr[:country] = a.elements['Country'].text
+					invoice_addr[:telephone] = a.elements['Telephone'].text
+					invoice_addr[:fax] = a.elements['Fax'].text
+					invoice_addr[:mobile] = a.elements['Mobile'].text
+					invoice_addr[:email] = a.elements['Email'].text
+				end
+				
+				c.elements.each('CustomerDeliveryAddress') do |a|
+					delivery_addr[:title] = a.elements['Title'].text
+					delivery_addr[:forename] = a.elements['Forename'].text
+					delivery_addr[:surname] = a.elements['Surname'].text
+					delivery_addr[:company] = a.elements['Company'].text
+					delivery_addr[:address1] = a.elements['Address1'].text
+					delivery_addr[:address2] = a.elements['Address2'].text
+					delivery_addr[:address3] = a.elements['Address3'].text
+					delivery_addr[:town] = a.elements['Town'].text
+					delivery_addr[:postcode] = a.elements['Postcode'].text
+					delivery_addr[:county] = a.elements['County'].text
+					delivery_addr[:country] = a.elements['Country'].text
+					delivery_addr[:telephone] = a.elements['Telephone'].text
+					delivery_addr[:fax] = a.elements['Fax'].text
+					delivery_addr[:mobile] = a.elements['Mobile'].text
+					delivery_addr[:email] = a.elements['Email'].text
+				end
+				
+				yield company, account_ref, invoice_addr, delivery_addr, vat_number, terms_agreed
+			end
+		end
   
   end
 
