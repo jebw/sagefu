@@ -62,7 +62,7 @@ module Sage
 				company = c.elements['CompanyName'].text
 				account_ref = c.elements['AccountReference'].text
 				vat_number = c.elements['VatNumber'].text
-				terms_agreed = c.elements['TermsAgreed'] ? (c.elements['TermsAgreed'].text == 'true') : nil
+				terms_agreed = c.elements['TermsAgreed'] ? (c.elements['TermsAgreed'].text.downcase == 'true') : nil
 				invoice_addr = Hash.new
 				delivery_addr = Hash.new
 				
