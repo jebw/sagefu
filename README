@@ -1,3 +1,15 @@
+Sagefu
+======
+
 This will be a plugin to aid working with Internetwares Connect product, 
 which allows you to push SalesOrders/Invoices into Sage Line 50, and pull
 Products/Categories/TaxCodes back out of Sage Line 50.
+
+
+Example
+=======
+
+Example goes here.
+
+
+Copyright (c) 2008 Jeremy Wilkins, released under the MIT license
