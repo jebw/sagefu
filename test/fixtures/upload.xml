@@ -1,0 +1,777 @@
+<?xml version="1.0"?>
+<Company>
+  <Products>
+    <Product>
+      <Sku>DVD-ABUG</Sku>
+      <Name>A Bug's Life</Name>
+      <Description />
+      <LongDescription>Regional Code: 2 (Japan, Europe, Middle East, South Africa).
+&lt;br&gt;
+Languages: English, Deutsch.
+&lt;br&gt;
+Subtitles: English, Deutsch, Spanish.
+&lt;br&gt;
+Audio: Dolby Digital 5.1 / Dobly Surround Stereo.
+&lt;br&gt;
+Picture Format: 16:9 Wide-Screen.
+&lt;br&gt;
+Length: (approx) 91 minutes.
+&lt;br&gt;
+Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</LongDescription>
+      <Custom1>13</Custom1>
+      <Custom2 />
+      <Custom3 />
+      <SalePrice>35.99</SalePrice>
+      <UnitWeight>7</UnitWeight>
+      <QtyInStock>0</QtyInStock>
+      <QtyOnOrder>0</QtyOnOrder>
+      <ReorderQty>0</ReorderQty>
+      <TaxCode>1</TaxCode>
+      <GroupCode>2</GroupCode>
+      <Department>0</Department>
+      <UnitOfSale>1</UnitOfSale>
+      <NominalCode>4000</NominalCode>
+      <Publish>false</Publish>
+      <SpecialOffer>false</SpecialOffer>
+      <QtyAllocated>0</QtyAllocated>
+    </Product>
+    <Product>
+      <Sku>DVD-BELOVED</Sku>
+      <Name>Beloved</Name>
+      <Description />
+      <LongDescription>Regional Code: 2 (Japan, Europe, Middle East, South Africa).
+&lt;br&gt;
+Languages: English, Deutsch.
+&lt;br&gt;
+Subtitles: English, Deutsch, Spanish.
+&lt;br&gt;
+Audio: Dolby Surround 5.1.
+&lt;br&gt;
+Picture Format: 16:9 Wide-Screen.
+&lt;br&gt;
+Length: (approx) 164 minutes.
+&lt;br&gt;
+Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</LongDescription>
+      <Custom1>15</Custom1>
+      <Custom2 />
+      <Custom3 />
+      <SalePrice>54.99</SalePrice>
+      <UnitWeight>7</UnitWeight>
+      <QtyInStock>0</QtyInStock>
+      <QtyOnOrder>0</QtyOnOrder>
+      <ReorderQty>0</ReorderQty>
+      <TaxCode>1</TaxCode>
+      <GroupCode>1</GroupCode>
+      <Department>0</Department>
+      <UnitOfSale>1</UnitOfSale>
+      <NominalCode>4000</NominalCode>
+      <Publish>false</Publish>
+      <SpecialOffer>false</SpecialOffer>
+      <QtyAllocated>0</QtyAllocated>
+    </Product>
+    <Product>
+      <Sku>DVD-BLDRNDC</Sku>
+      <Name>Blade Runner - Director's Cut (jeb remix)</Name>
+      <Description />
+      <LongDescription>Regional Code: 2 (Japan, Europe, Middle East, South Africa).&lt;br&gt;Languages: English, Deutsch.&lt;br&gt;Subtitles: English, Deutsch, Spanish.&lt;br&gt;Audio: Dolby Surround 5.1.&lt;br&gt;Picture Format: 16:9 Wide-Screen.&lt;br&gt;Length: (approx) 112 minutes.&lt;br&gt;Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</LongDescription>
+      <Custom1>11</Custom1>
+      <Custom2 />
+      <Custom3 />
+      <SalePrice>28.99</SalePrice>
+      <UnitWeight>7</UnitWeight>
+      <QtyInStock>20</QtyInStock>
+      <QtyOnOrder>0</QtyOnOrder>
+      <ReorderQty>0</ReorderQty>
+      <TaxCode>1</TaxCode>
+      <GroupCode>1</GroupCode>
+      <Department>0</Department>
+      <UnitOfSale>1</UnitOfSale>
+      <NominalCode>4000</NominalCode>
+      <Publish>false</Publish>
+      <SpecialOffer>false</SpecialOffer>
+      <QtyAllocated>0</QtyAllocated>
+    </Product>
+    <Product>
+      <Sku>DVD-CUFI</Sku>
+      <Name>Courage Under Fire</Name>
+      <Description />
+      <LongDescription>Regional Code: 2 (Japan, Europe, Middle East, South Africa).
+&lt;br&gt;
+Languages: English, Deutsch.
+&lt;br&gt;
+Subtitles: English, Deutsch, Spanish.
+&lt;br&gt;
+Audio: Dolby Surround 5.1.
+&lt;br&gt;
+Picture Format: 16:9 Wide-Screen.
+&lt;br&gt;
+Length: (approx) 112 minutes.
+&lt;br&gt;
+Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</LongDescription>
+      <Custom1>15</Custom1>
+      <Custom2 />
+      <Custom3 />
+      <SalePrice>38.99</SalePrice>
+      <UnitWeight>7</UnitWeight>
+      <QtyInStock>0</QtyInStock>
+      <QtyOnOrder>0</QtyOnOrder>
+      <ReorderQty>0</ReorderQty>
+      <TaxCode>1</TaxCode>
+      <GroupCode>1</GroupCode>
+      <Department>0</Department>
+      <UnitOfSale>1</UnitOfSale>
+      <NominalCode>4000</NominalCode>
+      <Publish>false</Publish>
+      <SpecialOffer>false</SpecialOffer>
+      <QtyAllocated>0</QtyAllocated>
+    </Product>
+    <Product>
+      <Sku>DVD-DHWV</Sku>
+      <Name>Die Hard with a Vengence</Name>
+      <Description />
+      <LongDescription />
+      <Custom1 />
+      <Custom2 />
+      <Custom3 />
+      <SalePrice>25</SalePrice>
+      <UnitWeight>0</UnitWeight>
+      <QtyInStock>0</QtyInStock>
+      <QtyOnOrder>0</QtyOnOrder>
+      <ReorderQty>0</ReorderQty>
+      <TaxCode>1</TaxCode>
+      <GroupCode>1</GroupCode>
+      <Department>0</Department>
+      <UnitOfSale>disc</UnitOfSale>
+      <NominalCode>4000</NominalCode>
+      <Publish>false</Publish>
+      <SpecialOffer>false</SpecialOffer>
+      <QtyAllocated>0</QtyAllocated>
+    </Product>
+    <Product>
+      <Sku>DVD-FDBL</Sku>
+      <Name>Fire Down Below</Name>
+      <Description />
+      <LongDescription>Regional Code: 2 (Japan, Europe, Middle East, South Africa).
+&lt;br&gt;
+Languages: English, Deutsch.
+&lt;br&gt;
+Subtitles: English, Deutsch, Spanish.
+&lt;br&gt;
+Audio: Dolby Surround 5.1.
+&lt;br&gt;
+Picture Format: 16:9 Wide-Screen.
+&lt;br&gt;
+Length: (approx) 100 minutes.
+&lt;br&gt;
+Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</LongDescription>
+      <Custom1>10</Custom1>
+      <Custom2 />
+      <Custom3 />
+      <SalePrice>29.99</SalePrice>
+      <UnitWeight>7</UnitWeight>
+      <QtyInStock>0</QtyInStock>
+      <QtyOnOrder>0</QtyOnOrder>
+      <ReorderQty>0</ReorderQty>
+      <TaxCode>1</TaxCode>
+      <GroupCode>1</GroupCode>
+      <Department>0</Department>
+      <UnitOfSale>1</UnitOfSale>
+      <NominalCode>4000</NominalCode>
+      <Publish>false</Publish>
+      <SpecialOffer>false</SpecialOffer>
+      <QtyAllocated>0</QtyAllocated>
+    </Product>
+    <Product>
+      <Sku>DVD-FRAN</Sku>
+      <Name>Frantic</Name>
+      <Description />
+      <LongDescription>Regional Code: 2 (Japan, Europe, Middle East, South Africa).
+&lt;br&gt;
+Languages: English, Deutsch.
+&lt;br&gt;
+Subtitles: English, Deutsch, Spanish.
+&lt;br&gt;
+Audio: Dolby Surround 5.1.
+&lt;br&gt;
+Picture Format: 16:9 Wide-Screen.
+&lt;br&gt;
+Length: (approx) 115 minutes.
+&lt;br&gt;
+Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</LongDescription>
+      <Custom1>14</Custom1>
+      <Custom2 />
+      <Custom3 />
+      <SalePrice>35</SalePrice>
+      <UnitWeight>7</UnitWeight>
+      <QtyInStock>0</QtyInStock>
+      <QtyOnOrder>0</QtyOnOrder>
+      <ReorderQty>0</ReorderQty>
+      <TaxCode>1</TaxCode>
+      <GroupCode>1</GroupCode>
+      <Department>0</Department>
+      <UnitOfSale>1</UnitOfSale>
+      <NominalCode>4000</NominalCode>
+      <Publish>false</Publish>
+      <SpecialOffer>false</SpecialOffer>
+      <QtyAllocated>0</QtyAllocated>
+    </Product>
+    <Product>
+      <Sku>DVD-LTWP</Sku>
+      <Name>Lethal Weapon</Name>
+      <Description />
+      <LongDescription>Regional Code: 2 (Japan, Europe, Middle East, South Africa).
+&lt;br&gt;
+Languages: English, Deutsch.
+&lt;br&gt;
+Subtitles: English, Deutsch, Spanish.
+&lt;br&gt;
+Audio: Dolby Surround 5.1.
+&lt;br&gt;
+Picture Format: 16:9 Wide-Screen.
+&lt;br&gt;
+Length: (approx) 100 minutes.
+&lt;br&gt;
+Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</LongDescription>
+      <Custom1>10</Custom1>
+      <Custom2 />
+      <Custom3 />
+      <SalePrice>34.99</SalePrice>
+      <UnitWeight>7</UnitWeight>
+      <QtyInStock>0</QtyInStock>
+      <QtyOnOrder>0</QtyOnOrder>
+      <ReorderQty>0</ReorderQty>
+      <TaxCode>1</TaxCode>
+      <GroupCode>1</GroupCode>
+      <Department>0</Department>
+      <UnitOfSale>1</UnitOfSale>
+      <NominalCode>4000</NominalCode>
+      <Publish>false</Publish>
+      <SpecialOffer>false</SpecialOffer>
+      <QtyAllocated>0</QtyAllocated>
+    </Product>
+    <Product>
+      <Sku>DVD-MATR</Sku>
+      <Name>The Matrix</Name>
+      <Description />
+      <LongDescription>Regional Code: 2 (Japan, Europe, Middle East, South Africa).
+&lt;br&gt;
+Languages: English, Deutsch.
+&lt;br&gt;
+Subtitles: English, Deutsch.
+&lt;br&gt;
+Audio: Dolby Surround.
+&lt;br&gt;
+Picture Format: 16:9 Wide-Screen.
+&lt;br&gt;
+Length: (approx) 131 minutes.
+&lt;br&gt;
+Other: Interactive Menus, Chapter Selection, Making Of.</LongDescription>
+      <Custom1>10</Custom1>
+      <Custom2 />
+      <Custom3 />
+      <SalePrice>39.99</SalePrice>
+      <UnitWeight>7</UnitWeight>
+      <QtyInStock>0</QtyInStock>
+      <QtyOnOrder>0</QtyOnOrder>
+      <ReorderQty>0</ReorderQty>
+      <TaxCode>1</TaxCode>
+      <GroupCode>1</GroupCode>
+      <Department>0</Department>
+      <UnitOfSale>1</UnitOfSale>
+      <NominalCode>4000</NominalCode>
+      <Publish>false</Publish>
+      <SpecialOffer>false</SpecialOffer>
+      <QtyAllocated>0</QtyAllocated>
+    </Product>
+    <Product>
+      <Sku>DVD-REDC</Sku>
+      <Name>Red Corner</Name>
+      <Description />
+      <LongDescription>Regional Code: 2 (Japan, Europe, Middle East, South Africa).
+&lt;br&gt;
+Languages: English, Deutsch.
+&lt;br&gt;
+Subtitles: English, Deutsch, Spanish.
+&lt;br&gt;
+Audio: Dolby Surround 5.1.
+&lt;br&gt;
+Picture Format: 16:9 Wide-Screen.
+&lt;br&gt;
+Length: (approx) 117 minutes.
+&lt;br&gt;
+Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</LongDescription>
+      <Custom1>15</Custom1>
+      <Custom2 />
+      <Custom3 />
+      <SalePrice>32</SalePrice>
+      <UnitWeight>7</UnitWeight>
+      <QtyInStock>0</QtyInStock>
+      <QtyOnOrder>0</QtyOnOrder>
+      <ReorderQty>0</ReorderQty>
+      <TaxCode>1</TaxCode>
+      <GroupCode>1</GroupCode>
+      <Department>0</Department>
+      <UnitOfSale>1</UnitOfSale>
+      <NominalCode>4000</NominalCode>
+      <Publish>false</Publish>
+      <SpecialOffer>false</SpecialOffer>
+      <QtyAllocated>0</QtyAllocated>
+    </Product>
+    <Product>
+      <Sku>DVD-RPMK</Sku>
+      <Name>The Replacement Killers</Name>
+      <Description />
+      <LongDescription>Regional Code: 2 (Japan, Europe, Middle East, South Africa).&lt;br&gt;Languages: English, Deutsch.&lt;br&gt;Subtitles: English, Deutsch, Spanish.&lt;br&gt;Audio: Dolby Surround 5.1.&lt;br&gt;Picture Format: 16:9 Wide-Screen.&lt;br&gt;Length: (approx) 80 minutes.&lt;br&gt;Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</LongDescription>
+      <Custom1>10</Custom1>
+      <Custom2 />
+      <Custom3 />
+      <SalePrice>42</SalePrice>
+      <UnitWeight>23</UnitWeight>
+      <QtyInStock>0</QtyInStock>
+      <QtyOnOrder>0</QtyOnOrder>
+      <ReorderQty>0</ReorderQty>
+      <TaxCode>1</TaxCode>
+      <GroupCode>1</GroupCode>
+      <Department>0</Department>
+      <UnitOfSale>1</UnitOfSale>
+      <NominalCode>4000</NominalCode>
+      <Publish>false</Publish>
+      <SpecialOffer>false</SpecialOffer>
+      <QtyAllocated>0</QtyAllocated>
+    </Product>
+    <Product>
+      <Sku>DVD-SPEED</Sku>
+      <Name>Speed</Name>
+      <Description />
+      <LongDescription>Regional Code: 2 (Japan, Europe, Middle East, South Africa).
+&lt;br&gt;
+Languages: English, Deutsch.
+&lt;br&gt;
+Subtitles: English, Deutsch, Spanish.
+&lt;br&gt;
+Audio: Dolby Surround 5.1.
+&lt;br&gt;
+Picture Format: 16:9 Wide-Screen.
+&lt;br&gt;
+Length: (approx) 112 minutes.
+&lt;br&gt;
+Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</LongDescription>
+      <Custom1>10</Custom1>
+      <Custom2 />
+      <Custom3 />
+      <SalePrice>39.99</SalePrice>
+      <UnitWeight>7</UnitWeight>
+      <QtyInStock>0</QtyInStock>
+      <QtyOnOrder>0</QtyOnOrder>
+      <ReorderQty>0</ReorderQty>
+      <TaxCode>1</TaxCode>
+      <GroupCode>1</GroupCode>
+      <Department>0</Department>
+      <UnitOfSale>1</UnitOfSale>
+      <NominalCode>4000</NominalCode>
+      <Publish>false</Publish>
+      <SpecialOffer>false</SpecialOffer>
+      <QtyAllocated>0</QtyAllocated>
+    </Product>
+    <Product>
+      <Sku>DVD-SPEED2</Sku>
+      <Name>Speed 2: Cruise Control</Name>
+      <Description />
+      <LongDescription>Regional Code: 2 (Japan, Europe, Middle East, South Africa).
+&lt;br&gt;
+Languages: English, Deutsch.
+&lt;br&gt;
+Subtitles: English, Deutsch, Spanish.
+&lt;br&gt;
+Audio: Dolby Surround 5.1.
+&lt;br&gt;
+Picture Format: 16:9 Wide-Screen.
+&lt;br&gt;
+Length: (approx) 120 minutes.
+&lt;br&gt;
+Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</LongDescription>
+      <Custom1>10</Custom1>
+      <Custom2 />
+      <Custom3 />
+      <SalePrice>42</SalePrice>
+      <UnitWeight>7</UnitWeight>
+      <QtyInStock>0</QtyInStock>
+      <QtyOnOrder>0</QtyOnOrder>
+      <ReorderQty>0</ReorderQty>
+      <TaxCode>1</TaxCode>
+      <GroupCode>1</GroupCode>
+      <Department>0</Department>
+      <UnitOfSale>1</UnitOfSale>
+      <NominalCode>4000</NominalCode>
+      <Publish>true</Publish>
+      <SpecialOffer>false</SpecialOffer>
+      <QtyAllocated>0</QtyAllocated>
+    </Product>
+    <Product>
+      <Sku>DVD-TSAB</Sku>
+      <Name>There's Something About Mary</Name>
+      <Description />
+      <LongDescription>Regional Code: 2 (Japan, Europe, Middle East, South Africa).
+&lt;br&gt;
+Languages: English, Deutsch.
+&lt;br&gt;
+Subtitles: English, Deutsch, Spanish.
+&lt;br&gt;
+Audio: Dolby Surround 5.1.
+&lt;br&gt;
+Picture Format: 16:9 Wide-Screen.
+&lt;br&gt;
+Length: (approx) 114 minutes.
+&lt;br&gt;
+Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</LongDescription>
+      <Custom1>12</Custom1>
+      <Custom2 />
+      <Custom3 />
+      <SalePrice>49.99</SalePrice>
+      <UnitWeight>7</UnitWeight>
+      <QtyInStock>0</QtyInStock>
+      <QtyOnOrder>0</QtyOnOrder>
+      <ReorderQty>0</ReorderQty>
+      <TaxCode>1</TaxCode>
+      <GroupCode>1</GroupCode>
+      <Department>0</Department>
+      <UnitOfSale>1</UnitOfSale>
+      <NominalCode>4000</NominalCode>
+      <Publish>false</Publish>
+      <SpecialOffer>false</SpecialOffer>
+      <QtyAllocated>0</QtyAllocated>
+    </Product>
+    <Product>
+      <Sku>DVD-UNSG</Sku>
+      <Name>Under Siege</Name>
+      <Description />
+      <LongDescription>Regional Code: 2 (Japan, Europe, Middle East, South Africa).
+&lt;br&gt;
+Languages: English, Deutsch.
+&lt;br&gt;
+Subtitles: English, Deutsch, Spanish.
+&lt;br&gt;
+Audio: Dolby Surround 5.1.
+&lt;br&gt;
+Picture Format: 16:9 Wide-Screen.
+&lt;br&gt;
+Length: (approx) 98 minutes.
+&lt;br&gt;
+Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</LongDescription>
+      <Custom1>10</Custom1>
+      <Custom2 />
+      <Custom3 />
+      <SalePrice>29.99</SalePrice>
+      <UnitWeight>7</UnitWeight>
+      <QtyInStock>0</QtyInStock>
+      <QtyOnOrder>0</QtyOnOrder>
+      <ReorderQty>0</ReorderQty>
+      <TaxCode>1</TaxCode>
+      <GroupCode>1</GroupCode>
+      <Department>0</Department>
+      <UnitOfSale>1</UnitOfSale>
+      <NominalCode>4000</NominalCode>
+      <Publish>false</Publish>
+      <SpecialOffer>false</SpecialOffer>
+      <QtyAllocated>0</QtyAllocated>
+    </Product>
+    <Product>
+      <Sku>DVD-UNSG2</Sku>
+      <Name>Under Siege 2 - Dark Territory</Name>
+      <Description />
+      <LongDescription>Regional Code: 2 (Japan, Europe, Middle East, South Africa).
+&lt;br&gt;
+Languages: English, Deutsch.
+&lt;br&gt;
+Subtitles: English, Deutsch, Spanish.
+&lt;br&gt;
+Audio: Dolby Surround 5.1.
+&lt;br&gt;
+Picture Format: 16:9 Wide-Screen.
+&lt;br&gt;
+Length: (approx) 98 minutes.
+&lt;br&gt;
+Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</LongDescription>
+      <Custom1>10</Custom1>
+      <Custom2 />
+      <Custom3 />
+      <SalePrice>29.99</SalePrice>
+      <UnitWeight>7</UnitWeight>
+      <QtyInStock>0</QtyInStock>
+      <QtyOnOrder>0</QtyOnOrder>
+      <ReorderQty>0</ReorderQty>
+      <TaxCode>1</TaxCode>
+      <GroupCode>1</GroupCode>
+      <Department>0</Department>
+      <UnitOfSale>1</UnitOfSale>
+      <NominalCode>4000</NominalCode>
+      <Publish>false</Publish>
+      <SpecialOffer>false</SpecialOffer>
+      <QtyAllocated>0</QtyAllocated>
+    </Product>
+    <Product>
+      <Sku>DVD-YGEM</Sku>
+      <Name>You've Got Mail</Name>
+      <Description />
+      <LongDescription>Regional Code: 2 (Japan, Europe, Middle East, South Africa).
+&lt;br&gt;
+Languages: English, Deutsch, Spanish.
+&lt;br&gt;
+Subtitles: English, Deutsch, Spanish, French, Nordic, Polish.
+&lt;br&gt;
+Audio: Dolby Digital 5.1.
+&lt;br&gt;
+Picture Format: 16:9 Wide-Screen.
+&lt;br&gt;
+Length: (approx) 115 minutes.
+&lt;br&gt;
+Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</LongDescription>
+      <Custom1>12</Custom1>
+      <Custom2 />
+      <Custom3 />
+      <SalePrice>34.99</SalePrice>
+      <UnitWeight>7</UnitWeight>
+      <QtyInStock>0</QtyInStock>
+      <QtyOnOrder>0</QtyOnOrder>
+      <ReorderQty>0</ReorderQty>
+      <TaxCode>1</TaxCode>
+      <GroupCode>1</GroupCode>
+      <Department>0</Department>
+      <UnitOfSale>1</UnitOfSale>
+      <NominalCode>4000</NominalCode>
+      <Publish>false</Publish>
+      <SpecialOffer>false</SpecialOffer>
+      <QtyAllocated>0</QtyAllocated>
+    </Product>    
+  </Products>
+  <Customers>
+    <Customer>
+      <CompanyName>Jeremy Wilkins</CompanyName>
+      <AccountReference>2</AccountReference>
+      <VatNumber />
+      <CustomerInvoiceAddress>
+        <Title />
+        <Forename />
+        <Surname />
+        <Company>Jeremy Wilkins</Company>
+        <Address1>IbexInternet</Address1>
+        <Address2 />
+        <Address3 />
+        <Town>ibex</Town>
+        <Postcode>la11 5jq</Postcode>
+        <County />
+        <Country>GB</Country>
+        <Telephone>015</Telephone>
+        <Fax />
+        <Mobile />
+        <Email>someone@email.com</Email>
+      </CustomerInvoiceAddress>
+      <CustomerDeliveryAddress>
+        <Title />
+        <Forename />
+        <Surname />
+        <Company />
+        <Address1>IbexInternet</Address1>
+        <Address2 />
+        <Address3 />
+        <Town>ibex</Town>
+        <Postcode>la215zq</Postcode>
+        <County />
+        <Country>GB</Country>
+        <Telephone />
+        <Fax />
+        <Mobile />
+        <Email />
+      </CustomerDeliveryAddress>
+      <TermsAgreed>false</TermsAgreed>
+      <PriceListReference />
+    </Customer>
+    <Customer>
+      <CompanyName>New Customer Account</CompanyName>
+      <AccountReference>256</AccountReference>
+      <VatNumber />
+      <CustomerInvoiceAddress>
+        <Title />
+        <Forename />
+        <Surname />
+        <Company>New Customer Account</Company>
+        <Address1>kjnlknjn</Address1>
+        <Address2 />
+        <Address3 />
+        <Town />
+        <Postcode />
+        <County />
+        <Country>GB</Country>
+        <Telephone />
+        <Fax />
+        <Mobile />
+        <Email />
+      </CustomerInvoiceAddress>
+      <CustomerDeliveryAddress>
+        <Title />
+        <Forename />
+        <Surname />
+        <Company />
+        <Address1 />
+        <Address2 />
+        <Address3 />
+        <Town />
+        <Postcode />
+        <County />
+        <Country>GB</Country>
+        <Telephone />
+        <Fax />
+        <Mobile />
+        <Email />
+      </CustomerDeliveryAddress>
+      <TermsAgreed>false</TermsAgreed>
+      <PriceListReference />
+    </Customer>
+    <Customer>
+      <CompanyName>jebw jebw</CompanyName>
+      <AccountReference>63</AccountReference>
+      <VatNumber />
+      <CustomerInvoiceAddress>
+        <Title />
+        <Forename>jebw</Forename>
+        <Surname>jebw</Surname>
+        <Company>jebw jebw</Company>
+        <Address1>jebw</Address1>
+        <Address2 />
+        <Address3 />
+        <Town>Kendal</Town>
+        <Postcode>LA9 4JQ</Postcode>
+        <County />
+        <Country>US</Country>
+        <Telephone>0123</Telephone>
+        <Fax />
+        <Mobile />
+        <Email>jebw@email.co.uk</Email>
+      </CustomerInvoiceAddress>
+      <CustomerDeliveryAddress>
+        <Title />
+        <Forename>jebw</Forename>
+        <Surname>jebw</Surname>
+        <Company>jebw jebw</Company>
+        <Address1>jebw</Address1>
+        <Address2 />
+        <Address3 />
+        <Town>Kendal</Town>
+        <Postcode>LA23 2ZQ</Postcode>
+        <County />
+        <Country>US</Country>
+        <Telephone>0123</Telephone>
+        <Fax />
+        <Mobile />
+        <Email />
+      </CustomerDeliveryAddress>
+      <PriceListReference />
+    </Customer>
+    <Customer>
+      <CompanyName>Ibex</CompanyName>
+      <AccountReference>75</AccountReference>
+      <VatNumber />
+      <CustomerInvoiceAddress>
+        <Title />
+        <Forename>jeremy</Forename>
+        <Surname>wilkins</Surname>
+        <Company>Ibex</Company>
+        <Address1>Kendal</Address1>
+        <Address2 />
+        <Address3 />
+        <Town>Kendal</Town>
+        <Postcode>la17 3nk</Postcode>
+        <County />
+        <Country>US</Country>
+        <Telephone>01</Telephone>
+        <Fax />
+        <Mobile />
+        <Email>foobar@email.com</Email>
+      </CustomerInvoiceAddress>
+      <CustomerDeliveryAddress>
+        <Title />
+        <Forename>jeremy</Forename>
+        <Surname>wilkins</Surname>
+        <Company>Ibex</Company>
+        <Address1>Kendal</Address1>
+        <Address2 />
+        <Address3 />
+        <Town>Kendal</Town>
+        <Postcode>la17 3nk</Postcode>
+        <County />
+        <Country>US</Country>
+        <Telephone>01</Telephone>
+        <Fax />
+        <Mobile />
+        <Email />
+      </CustomerDeliveryAddress>
+      <PriceListReference />
+    </Customer>
+
+  </Customers>
+  <SalesOrders />
+  <Invoices />
+  <ProductGroups>
+    <ProductGroup>
+      <Reference>1</Reference>
+      <Name>Action</Name>
+    </ProductGroup>
+    <ProductGroup>
+      <Reference>2</Reference>
+      <Name>Cartoons</Name>
+    </ProductGroup>
+    <ProductGroup>
+      <Reference>3</Reference>
+      <Name>Jebs</Name>
+    </ProductGroup>
+  </ProductGroups>
+  <Transactions />
+  <TaxRates>
+    <TaxRate>
+      <Reference>0</Reference>
+      <Description>Zero rated transactions</Description>
+      <Rate>0</Rate>
+    </TaxRate>
+    <TaxRate>
+      <Reference>1</Reference>
+      <Description>Standard rated transactions</Description>
+      <Rate>17.5</Rate>
+    </TaxRate>
+    <TaxRate>
+      <Reference>2</Reference>
+      <Description>Exempt transactions</Description>
+      <Rate>0</Rate>
+    </TaxRate>
+    <TaxRate>
+      <Reference>3</Reference>
+      <Description />
+      <Rate>0</Rate>
+    </TaxRate>
+    <TaxRate>
+      <Reference>4</Reference>
+      <Description>Sales to VAT registered customers in EC</Description>
+      <Rate>0</Rate>
+    </TaxRate>
+    <TaxRate>
+      <Reference>5</Reference>
+      <Description>Lower Rate</Description>
+      <Rate>5</Rate>
+    </TaxRate>
+    <TaxRate>
+      <Reference>6</Reference>
+      <Description />
+      <Rate>0</Rate>
+    </TaxRate>
+    <TaxRate>
+      <Reference>7</Reference>
+      <Description>Zero rated purchases from suppliers in EC</Description>
+      <Rate>0</Rate>
+    </TaxRate>
+    <TaxRate>
+      <Reference>8</Reference>
+      <Description>Standard rated purchases from suppliers in EC</Description>
+      <Rate>0</Rate>
+    </TaxRate>
+  </TaxRates>
+  <PriceLists />
+</Company>
