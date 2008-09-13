@@ -736,7 +736,7 @@ Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</LongDe
     <TaxRate>
       <Reference>8</Reference>
       <Description>Standard rated purchases from suppliers in EC</Description>
-      <Rate>0</Rate>
+      <Rate>17.5</Rate>
     </TaxRate>
   </TaxRates>
   <PriceLists />
