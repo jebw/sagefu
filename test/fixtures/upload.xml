@@ -508,40 +508,6 @@ Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</LongDe
       <Publish>false</Publish>
       <SpecialOffer>false</SpecialOffer>
       <QtyAllocated>0</QtyAllocated>
-    </Product>
-    <Product>
-      <Sku>DVD-YGEM</Sku>
-      <Name>You've Got Mail</Name>
-      <Description />
-      <LongDescription>Regional Code: 2 (Japan, Europe, Middle East, South Africa).
-&lt;br&gt;
-Languages: English, Deutsch, Spanish.
-&lt;br&gt;
-Subtitles: English, Deutsch, Spanish, French, Nordic, Polish.
-&lt;br&gt;
-Audio: Dolby Digital 5.1.
-&lt;br&gt;
-Picture Format: 16:9 Wide-Screen.
-&lt;br&gt;
-Length: (approx) 115 minutes.
-&lt;br&gt;
-Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</LongDescription>
-      <Custom1>12</Custom1>
-      <Custom2 />
-      <Custom3 />
-      <SalePrice>34.99</SalePrice>
-      <UnitWeight>7</UnitWeight>
-      <QtyInStock>0</QtyInStock>
-      <QtyOnOrder>0</QtyOnOrder>
-      <ReorderQty>0</ReorderQty>
-      <TaxCode>1</TaxCode>
-      <GroupCode>1</GroupCode>
-      <Department>0</Department>
-      <UnitOfSale>1</UnitOfSale>
-      <NominalCode>4000</NominalCode>
-      <Publish>false</Publish>
-      <SpecialOffer>false</SpecialOffer>
-      <QtyAllocated>0</QtyAllocated>
     </Product>    
   </Products>
   <Customers>
