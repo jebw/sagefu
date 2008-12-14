@@ -7,7 +7,8 @@ module Sage
       xml = options[:xml] || eval("xml", block.binding)
       xml.instruct!
       
-      xml.Company do    
+      xml.Company("xmlns:xsd" => "http://www.w3.org/2001/XMLSchema", 
+                  "xmlns:xsi" => "http://www.w3.org/2001/XMLSchema-instance") do    
         yield DownloadXmlBuilder.new(xml, self, options)
       end
       
