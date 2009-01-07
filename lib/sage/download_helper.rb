@@ -29,20 +29,17 @@ module Sage
         end
       end
       
-      def invoices(invoices, map = {})
+      def invoices(invoices, custom_map = {})
         @xml.Invoices do
-          map = build_invoice_map(invoices.first, map) unless invoices.empty?
-        
-          invoices.each do |invoice|
-            @xml.Invoice do
-              map.each do |key, value|
-                next if value.nil?
-                
-                if value.is_a?(Symbol)
-                  @xml.__send__ key, invoice.send(value) unless value.nil?
-                else
-                  @xml.__send__ key, value
-                end
+          unless invoices.empty?
+            map = FieldMap.new(invoice, custom_map)
+            
+            map.find_field('Id')
+            map.find_field('InvoiceNumber', true)
+            
+            invoices.each do |invoice|
+              @xml.Invoice do
+                map.write_values(@xml, invoice)
               end
             end
           end
@@ -54,35 +51,50 @@ module Sage
         def method_missing(method, *arguments, &block)
           @xml.__send__(method, *arguments, &block)
         end
+
+    end
+    
+    class FieldMap < Hash
+    
+      def initialize(obj, map = {})
+        super()
+        @map_for = obj
+        @map_for_methods = obj.methods
+        map.each { |k,v| self[k] = v }
+      end
       
-        def build_invoice_map(invoice, map)
-          im = invoice.methods
-          
-          find_field(map, im, 'Id')
-          find_field(map, im, 'InvoiceNumber', true)
-          
-          map
+      def find_field(field, required = false, alternatives = [])
+        return if has_key?(field)
+        
+        needles = [ field, field.downcase, field.underscore ]
+        needles += alternatives
+        
+        needles.each do |needle|
+          if @map_for_methods.include?(needle)
+            self[field] = needle.to_sym
+            return
+          end
         end
         
-        def find_field(map, haystack, field, required = false, alternatives = [])
-          return if map.keys.include?(field)
-        
-          needles = [ field, field.downcase, field.underscore ]
-          needles += alternatives
-        
-          needles.each do |needle|
-            if haystack.include?(needle)
-              map[field] = needle.to_sym
-              return
-            end
-          end
+        if required
+          raise InvalidFormatError
+        else
+          nil
+        end
+      end
+      
+      def write_values(xml, obj)
+        each do |k, v|
+          next if v.nil?
           
-          if required
-            raise InvalidFormatError
+          if v.is_a?(Symbol)
+            xml.__send__ k, obj.send(v)
           else
-            nil
+            xml.__send__ k, v
           end
         end
+      end
+      
     end
     
     class InvalidFormatError < RuntimeError
